@@ -41,5 +41,6 @@ const Jarvis = () => {
     </div>
   );
 };
+console.log("Hello, Sir!");
 
 export default Jarvis;
